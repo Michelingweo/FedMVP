@@ -10,13 +10,20 @@ Federated learning (FL) has obtained tremendous progress in providing collaborat
 
 
 ## Requirements
-python>=3.8  
+python>=3.8
+
 pytorch>=1.13
+
 numpy>=1.21
+
 matplotlib>=3.5
+
 transformers>=4.25
+
 spacy>=3.3
+
 timm>=0.6
+
 
 ## Run
 
