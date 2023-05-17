@@ -1,3 +1,9 @@
 torch==0.4.1
 torchvision==0.2.1
-
+python>=3.8
+pytorch>=1.13
+numpy>=1.21
+matplotlib>=3.5
+transformers>=4.25
+spacy>=3.3
+timm>=0.6
