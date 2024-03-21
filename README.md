@@ -1,6 +1,6 @@
 # Federated Learning
 
-This is the code for the paper [Learn from Pretrained: An Efficient Multi-modal Federated Learning Robust to Modality Missing]
+This is the code for the paper [Leveraging Foundation Models for Multi-modal Federated Learning with Incomplete Modality]
 
 Note: The scripts will be slow without the implementation of parallel computing. 
 
