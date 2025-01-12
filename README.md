@@ -1,4 +1,4 @@
-# Federated Learning
+# FedMVP
 
 This is the code for the paper [Leveraging Foundation Models for Multi-modal Federated Learning with Incomplete Modality]
 
